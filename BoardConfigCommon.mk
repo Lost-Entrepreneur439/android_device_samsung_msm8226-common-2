@@ -105,6 +105,7 @@ TARGET_USES_INTERACTION_BOOST := true
 
 # Prebuilt
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+RELAX_USES_LIBRARY_CHECK := true
 
 # Properties
 TARGET_PRODUCT_PROP += device/samsung/msm8226-common/product.prop
